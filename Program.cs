@@ -13,6 +13,8 @@ namespace Githubdemo
             Console.WriteLine("github project");
             Console.WriteLine("console project ");
             Console.WriteLine("angular project");
+            Console.WriteLine("blazor project");
+            Console.WriteLine("asp.net project");
             Console.WriteLine("Hii all good work");
         }
     }
