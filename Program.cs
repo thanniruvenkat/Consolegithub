@@ -16,6 +16,7 @@ namespace Githubdemo
             Console.WriteLine("console project ");
             Console.WriteLine("console project ");
             Console.WriteLine("angular project");
+            Console.WriteLine("good bye to magneq software");
         }
     }
 }
