@@ -11,6 +11,7 @@ namespace Githubdemo
         static void Main(string[] args)
         {
             Console.WriteLine("github project");
+            Console.WriteLine("console project ");
         }
     }
 }
