@@ -12,11 +12,14 @@ namespace Githubdemo
         {
             Console.WriteLine("github project");
             Console.WriteLine("console project ");
+            Console.WriteLine("console project ");
+            Console.WriteLine("console project ");
+            Console.WriteLine("console project ");
             Console.WriteLine("angular project");
             Console.WriteLine("blazor project");
             Console.WriteLine("asp.net project");
-            Console.WriteLine("congratulations venkat brother");
-
+            Console.WriteLine("Hii congratulations sunil good job");
+            Console.WriteLine("good bye to magneq software");
         }
     }
 }
