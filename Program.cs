@@ -14,6 +14,7 @@ namespace Githubdemo
             Console.WriteLine("console project ");
             Console.WriteLine("angular project");
             Console.WriteLine("blazor project");
+            Console.WriteLine("asp.net project");
         }
     }
 }
