@@ -16,6 +16,7 @@ namespace Githubdemo
             Console.WriteLine("blazor project");
             Console.WriteLine("asp.net project");
             Console.WriteLine("Hii all good work");
+            Console.WriteLine("Good Job Rama garu and Venkat Bro");
         }
     }
 }
